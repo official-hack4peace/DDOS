@@ -12,8 +12,8 @@ a denial-of-service attack is a cyber-attack in which the perpetrator seeks to m
 # Requirment
 1. Git
 2. Python2
-3. Colorama (pip)
-4. figlet (pip)
+3. Colorama (pip2)
+4. figlet (pip2)
 # Installation
 1. git clone https://github.com/official-hack4peace/DDOS
 2. cd DDOS
