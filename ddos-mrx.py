@@ -10,8 +10,8 @@ sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = random._urandom(1490)
 #############
 
-os.system("clear"
-print (Fore.GREEN + "      ___  ___  ___  ___ ") 
+os.system("clear")
+print (Fore.GREEN + "                ___  ___  ___  ___ ") 
 print ("             | . \| . \| . |/ __> ")
 print ("             | | || | || | |\__ \ ")
 print ("             |___/|___/`___|<___/ ")
