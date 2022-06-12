@@ -12,8 +12,8 @@ os.system("clear")
 os.system("figlet DDos")
 print "Created by: Mr_x"
 print "Github: https://github.com/official-hack4peace"
-print "YouTube:
-print "Instagram: https://instagram.com/official_hack4peace01
+print "YouTube: https://youtube.com/channel/UCHTT9mz7Fdtn3TdotMjynGg"
+print "Instagram: https://instagram.com/official_hack4peace01"
 ip = raw_input("Target IP: ")
 port = input("Port: ")
 # starting ddos attack
