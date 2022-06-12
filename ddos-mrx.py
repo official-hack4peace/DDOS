@@ -11,10 +11,10 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear"
-print (Fore.GREEN + " ___  ___  ___  ___") 
-print ("             | . \| . \| . |/ __>")
-print ("             | | || | || | |\__ \")
-print ("             |___/|___/`___|<___/")
+print (Fore.GREEN + " ___  ___  ___  ___ ") 
+print ("             | . \| . \| . |/ __> ")
+print ("             | | || | || | |\__ \ ")
+print ("             |___/|___/`___|<___/ ")
       
 print "                 Created by: Mr_x"
 print "     Github: https://github.com/official-hack4peace"
