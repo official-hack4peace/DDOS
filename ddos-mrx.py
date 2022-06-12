@@ -10,8 +10,12 @@ sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = random._urandom(1490)
 #############
 
-os.system("clear")
-os.system(Fore.GREEN + "figlet DDos")
+os.system("clear"
+print ('''Fore.GREEN ___  ___  ___  ___ 
+                    | . \| . \| . |/ __>
+                    | | || | || | |\__ \
+                    |___/|___/`___'<___/''')
+      
 print "Created by: Mr_x"
 print "Github: https://github.com/official-hack4peace"
 print "YouTube: https://youtube.com/channel/UCHTT9mz7Fdtn3TdotMjynGg"
