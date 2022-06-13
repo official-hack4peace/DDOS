@@ -16,7 +16,7 @@ print ("             | . \| . \| . |/ __> ")
 print ("             | | || | || | |\__ \ ")
 print ("             |___/|___/`___|<___/ ")
       
-print "Created by: Mr_x"
+print "Created by: Mrx"
 print "Github: https://github.com/official-hack4peace"
 print "YouTube: https://youtube.com/channel/UCHTT9mz7Fdtn3TdotMjynGg"
 print "Instagram: https://instagram.com/official_hack4peace01"
