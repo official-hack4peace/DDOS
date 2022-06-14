@@ -9,6 +9,12 @@
 I am not responsible for any damge and illegal work this is your responsibility.
 # What is DDos attack?
 a denial-of-service attack is a cyber-attack in which the perpetrator seeks to make a machine or network resource unavailable to its intended users by temporarily or indefinitely disrupting services of a host connected to a network. 
+# Platform
+It works on these platforms:-
+1. Linux
+2. Windows 
+3. Mac
+4. Android
 # Requirment
 1. Git
 2. Python2
